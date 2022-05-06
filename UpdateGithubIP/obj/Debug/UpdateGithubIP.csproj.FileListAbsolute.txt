@@ -1,0 +1,8 @@
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\obj\Debug\UpdateGithubIP.csproj.AssemblyReference.cache
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\obj\Debug\UpdateGithubIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\obj\Debug\UpdateGithubIP.csproj.CoreCompileInputs.cache
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\bin\Debug\UpdateGithubIP.exe.config
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\bin\Debug\UpdateGithubIP.exe
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\bin\Debug\UpdateGithubIP.pdb
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\obj\Debug\UpdateGithubIP.exe
+C:\Users\17633\Desktop\新建文件夹\UpdateGithubIP\obj\Debug\UpdateGithubIP.pdb
