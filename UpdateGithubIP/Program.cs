@@ -49,8 +49,9 @@ namespace UpdateGithubIP
                 sw.WriteLine(ip + " " + domain);
 
                 //关闭写入
-                if (sw != null)
+                if (sw != null) {
                     sw.Close();
+                }
 
                 File.SetAttributes(path, FileAttributes.ReadOnly);
                 Console.WriteLine("初始化成功……");
